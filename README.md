@@ -1,6 +1,6 @@
 # Simple Client/Server UDP Communication
 Simulating a client requesting a "movie" from a server.\
-For this program, there are two files: a client (`UDPClient.py`) and server (`UDPServer.py`), running on two different hosts.\
+For this program, there are two files: a client (`UDPClient.py`) and server (`UDPServer.py`), running on two different hosts.
 1. A client requests a "movie" from a server, stored in `client_log`. The request packet contains:
 - `name` : Client Nname _example: Steven_
 - `movie` : Movie Name _example: Troll 2_
